@@ -6,7 +6,7 @@ print("Hello, World!")
 # Storing data in variables and calculating a sum.
 num1 = 10
 num2 = 5
-total = num1 + num2
+total = num1 - num2
 print(f"The multiply of {num1} and {num2} is {total}")
 
 # --- Accepting User Input ---
